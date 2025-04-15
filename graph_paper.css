@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
 :root {
-  font-family: "Work Sans Regular", Arial;
+  font-family: "Source Han Serif SC", "Noto Serif SC", "Work Sans Regular", Arial;
   --main-color: #040014;
   --text-color: #121114;
   --bg-color-alt: #dadada;
